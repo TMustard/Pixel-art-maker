@@ -20,4 +20,4 @@ To accomplish this, you will have to:
 * You'll likely change ./css/style.css, and maybe index.html as well!
 
 * Deploy your app!
-* Paste link to deployed app here:
+* Paste link to deployed app here: https://pixel-art-maker-c6a49.firebaseapp.com/
